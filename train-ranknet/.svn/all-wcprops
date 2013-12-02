@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/app/search/vis/!svn/ver/5922/trunk/deep-cnn/train
+END
+ordereddict.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/vis/!svn/ver/5709/trunk/deep-cnn/train/ordereddict.py
+END
+data.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/app/search/vis/!svn/ver/5709/trunk/deep-cnn/train/data.py
+END
+common-gcc-cuda-4.0.mk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/app/search/vis/!svn/ver/5709/trunk/deep-cnn/train/common-gcc-cuda-4.0.mk
+END
+options.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/app/search/vis/!svn/ver/5709/trunk/deep-cnn/train/options.py
+END
+convnet.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/app/search/vis/!svn/ver/5911/trunk/deep-cnn/train/convnet.py
+END
+gpumodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/app/search/vis/!svn/ver/5911/trunk/deep-cnn/train/gpumodel.py
+END
+layer.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/app/search/vis/!svn/ver/5922/trunk/deep-cnn/train/layer.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/app/search/vis/!svn/ver/5709/trunk/deep-cnn/train/util.py
+END
+util2.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/app/search/vis/!svn/ver/5709/trunk/deep-cnn/train/util2.py
+END
+convdata.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/app/search/vis/!svn/ver/5911/trunk/deep-cnn/train/convdata.py
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/app/search/vis/!svn/ver/5709/trunk/deep-cnn/train/build.sh
+END
+ABOUT
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/app/search/vis/!svn/ver/5709/trunk/deep-cnn/train/ABOUT
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/app/search/vis/!svn/ver/5733/trunk/deep-cnn/train/Makefile
+END
+shownet.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/app/search/vis/!svn/ver/5709/trunk/deep-cnn/train/shownet.py
+END
